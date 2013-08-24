@@ -1,0 +1,11 @@
+Sham - Make libvirt nicer
+
+Sham is a python library to smooth out some of the sharper edges of the libvirt python API.
+
+It provides wrappers around:
+    Storage Pools
+    Stoage Volumes
+    Network Interfaces
+    Virtual Machines
+    Cloning
+
