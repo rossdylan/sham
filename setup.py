@@ -9,5 +9,6 @@ setup(name='sham',
       description='Friendly interface to libvirt',
       author='Ross Delinger',
       author_email='ross.delinger@gmail.com',
+      url='https://github.com/rossdylan/sham',
       packages=find_packages()
       )
