@@ -5,7 +5,7 @@
 from setuptools import setup, find_packages
 
 setup(name='sham',
-      version='0.1.0',
+      version='0.1.1',
       description='Friendly interface to libvirt',
       author='Ross Delinger',
       author_email='ross.delinger@gmail.com',
