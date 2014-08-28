@@ -16,7 +16,7 @@ class NetworkInterface(object):
     def root(self):
         """
         TODO(rdelinger) rename this as to_xml or something similar
-        """"
+        """
         self.xml_root = ElementTree.Element('interface')
         self.xml_root.set('type', self.type)
         if self.mac is not None:
